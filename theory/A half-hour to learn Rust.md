@@ -752,7 +752,7 @@ fn main() {
 }
 ```
 
-### Orphan rules(孤儿规则)
+### The Self type(Self 类型)
 
 An `impl` block is alwaysfora type, so, inside that block, `Self` means that type:
 
